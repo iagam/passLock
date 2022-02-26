@@ -6,5 +6,5 @@
 
 - Built a simple app with responsive UI
 - Designed UI elements in Figma
-- Used the concept of Randomisation to generate password
+- Used the concept of Randomisation to generate a new password with every click
 - Added Reset functionality to revert app to origin state
